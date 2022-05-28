@@ -22,9 +22,9 @@ A KPI calculator that can parse the standard REVISAL report and allow companies 
 
 <ol>
     <li>Clone the repository</li>
-    <li>Rename the .env.template to .env and fill in your database credentials</li>
-    <li>Create the Python virtual environment</li>
-    <li>Run the application with Python</li>
+    <li>Rename the .env.template to .env and fill in your docker database credentials</li>
+    <li>Rename the application.properties template to application.properties and fill in/customize the data in the template</li>
+    <li>Run the docker compose-up command</li>
 </ol>
 
 <hr>
